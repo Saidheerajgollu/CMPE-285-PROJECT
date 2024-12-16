@@ -77,5 +77,21 @@ Sai Dheeraj Gollu SJSU ID:017520503
 ### Prerequisites:
 - Python 3.8+
 - Required libraries:
-```bash
-pip install PyQt5 yfinance pandas matplotlib numpy
+   PyQt5,yfinance,pandas,matplotlib,numpy
+
+
+
+### Running the Application
+
+Method 1: Using the Files Directly
+
+Create a new directory named "stock_portfolio"
+Save these two files in the directory:
+
+portfolio_app.py
+main.py
+
+
+Open terminal/command prompt
+Navigate to the directory
+Run the application using :main.py
