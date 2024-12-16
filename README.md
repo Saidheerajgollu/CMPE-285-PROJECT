@@ -83,7 +83,6 @@ Sai Dheeraj Gollu SJSU ID:017520503
 
 ### Running the Application
 
-Method 1: Using the Files Directly
 
 Create a new directory named "stock_portfolio"
 Save these two files in the directory:
