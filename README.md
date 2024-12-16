@@ -5,10 +5,14 @@
 The Smart Stock Portfolio Manager is a Python-based desktop application designed to help users make informed investment decisions. With a minimum investment of $5000 USD, users can select from various investment strategies and receive intelligent portfolio allocations based on historical performance, risk metrics, and market data. The application provides real-time portfolio tracking, performance visualization, and detailed stock analytics.
 
 ## 👥 Team Members
-Jahnavi burla
-Abhinav Sriharsha Anumanchi
-Sai Priyanka Bonkuri
-Sai Dheeraj Gollu
+Jahnavi burla SJSU ID:017513392
+
+Abhinav Sriharsha Anumanchi SJSU ID:017514900
+
+Sai Priyanka Bonkuri SJSU ID:017548557
+
+Sai Dheeraj Gollu SJSU ID:017520503
+
 
 ## 🚀 Features
 
